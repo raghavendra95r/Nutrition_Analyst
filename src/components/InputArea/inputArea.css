@@ -1,0 +1,15 @@
+
+
+@media (min-width: 560px) {
+     .inputtext{
+    text-align:start;
+    height: 22rem;
+    width: 20rem;
+    display: flex;
+   margin: 50px 50px 10px 90px;
+   border: 0;
+opacity: 0.5;
+
+color: black;
+
+} }
